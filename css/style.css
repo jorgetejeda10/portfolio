@@ -87,7 +87,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('/images/home.png') no-repeat;
+    background: url('https://raw.githubusercontent.com/jorgetejeda10/portfolio/6bb930d3134c2f2794bb31aad7c0549ee42d826f/images/home.png') no-repeat;
     background-size: cover;
     background-position: center;
 }
